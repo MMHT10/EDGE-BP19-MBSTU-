@@ -17,7 +17,7 @@ dis_width = 600
 dis_height = 400
 
 dis = pygame.display.set_mode((dis_width, dis_height))
-pygame.display.set_caption('Snake Game by ChatGPT')
+pygame.display.set_caption('Snake Game by MARUF')
 
 clock = pygame.time.Clock()
 
@@ -121,3 +121,4 @@ def gameLoop():
     quit()
 
 gameLoop()
+
